@@ -1,0 +1,19 @@
+{
+	"mirror.break": {
+		"subtitle": "subtitles.opticalmirrors.mirror.break",
+		"sounds": [
+			"minecraft:random/glass1",
+			"minecraft:random/glass2",
+			"minecraft:random/glass3"
+		]
+	},
+	"mirror.place": {
+		"subtitle": "subtitles.opticalmirrors.mirror.place",
+		"sounds": [
+			"minecraft:dig/stone1",
+			"minecraft:dig/stone2",
+			"minecraft:dig/stone3",
+			"minecraft:dig/stone4"
+		]
+	}
+}

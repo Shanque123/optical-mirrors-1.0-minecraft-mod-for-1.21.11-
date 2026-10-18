@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"id": "opticalmirrors",
+	"version": "1.0",
+	"name": "Optical Mirrors",
+	"description": "贴墙式镜子：像物品展示框一样贴在方块任意一面，可被拼成一整面，并实时显示从它位置看到的真实渲染画面。支持Iris下的部分光影。",
+	"authors": [
+		"Shanque123"
+	],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/opticalmirrors/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.gzz.opticalmirrors.OpticalMirrors"
+		],
+		"client": [
+			"com.gzz.opticalmirrors.client.OpticalMirrorsClient"
+		],
+		"modmenu": [
+			"com.gzz.opticalmirrors.client.ModMenuIntegration"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": ">=1.21.11 <1.22",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"modmenu": "*",
+		"jei": "*"
+	}
+}

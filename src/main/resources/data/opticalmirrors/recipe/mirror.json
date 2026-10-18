@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"group": "optical_mirror",
+	"key": {
+		"X": "#opticalmirrors:mirror_glass_panes",
+		"#": "#minecraft:planks"
+	},
+	"pattern": [
+		"X#X",
+		"#X#",
+		"X#X"
+	],
+	"result": {
+		"count": 4,
+		"id": "opticalmirrors:mirror"
+	}
+}

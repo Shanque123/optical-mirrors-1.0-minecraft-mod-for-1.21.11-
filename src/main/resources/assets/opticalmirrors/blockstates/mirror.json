@@ -1,0 +1,22 @@
+{
+	"variants": {
+		"facing=north": {
+			"model": "opticalmirrors:block/mirror_north"
+		},
+		"facing=south": {
+			"model": "opticalmirrors:block/mirror_south"
+		},
+		"facing=east": {
+			"model": "opticalmirrors:block/mirror_east"
+		},
+		"facing=west": {
+			"model": "opticalmirrors:block/mirror_west"
+		},
+		"facing=up": {
+			"model": "opticalmirrors:block/mirror_up"
+		},
+		"facing=down": {
+			"model": "opticalmirrors:block/mirror_down"
+		}
+	}
+}

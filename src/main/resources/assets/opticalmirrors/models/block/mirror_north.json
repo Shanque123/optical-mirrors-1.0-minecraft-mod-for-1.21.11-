@@ -1,0 +1,70 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#frame",
+		"frame": "opticalmirrors:block/mirror_frame",
+		"glass": "opticalmirrors:block/mirror_glass"
+	},
+	"elements": [
+		{
+			"from": [
+				0,
+				0,
+				15
+			],
+			"to": [
+				16,
+				16,
+				16
+			],
+			"faces": {
+				"south": {
+					"texture": "#frame",
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"cullface": "south"
+				},
+				"east": {
+					"texture": "#frame",
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					]
+				},
+				"west": {
+					"texture": "#frame",
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					]
+				},
+				"up": {
+					"texture": "#frame",
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					]
+				},
+				"down": {
+					"texture": "#frame",
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					]
+				}
+			}
+		}
+	]
+}
