@@ -7,6 +7,7 @@ normal, and draws the rendered result back onto the mirror surface. Adjacent mir
 single large mirror with a continuous, seamless image.
 
 Author: Shanque123
+*Includes AI-assisted creation
 
 Crafting: 5 glass panes of any kind + 4 planks of any kind → 4 mirrors
 Drops: Silk Touch required
@@ -104,6 +105,7 @@ src/main/java/com/gzz/opticalmirrors/
 
 
 作者：Shanque123
+*注：含有AI辅助内容创作
 
 合成：5 个任意玻璃板 + 4 个任意木板 → 4 块镜子
 掉落：需精准采集
